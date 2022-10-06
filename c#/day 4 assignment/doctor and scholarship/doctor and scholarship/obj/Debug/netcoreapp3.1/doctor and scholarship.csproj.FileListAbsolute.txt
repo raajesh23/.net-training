@@ -1,0 +1,5 @@
+D:\training\doctor and scholarship\doctor and scholarship\obj\Debug\netcoreapp3.1\doctor and scholarship.csproj.AssemblyReference.cache
+D:\training\doctor and scholarship\doctor and scholarship\obj\Debug\netcoreapp3.1\doctor and scholarship.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\doctor and scholarship\doctor and scholarship\obj\Debug\netcoreapp3.1\doctor and scholarship.AssemblyInfoInputs.cache
+D:\training\doctor and scholarship\doctor and scholarship\obj\Debug\netcoreapp3.1\doctor and scholarship.AssemblyInfo.cs
+D:\training\doctor and scholarship\doctor and scholarship\obj\Debug\netcoreapp3.1\doctor and scholarship.csproj.CoreCompileInputs.cache
