@@ -1,0 +1,13 @@
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.AssemblyInfoInputs.cache
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.AssemblyInfo.cs
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.csproj.CoreCompileInputs.cache
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.exe
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.deps.json
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.runtimeconfig.json
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.runtimeconfig.dev.json
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.dll
+D:\training\day 2 assignement\string\string\bin\Debug\netcoreapp3.1\string.pdb
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.dll
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.pdb
+D:\training\day 2 assignement\string\string\obj\Debug\netcoreapp3.1\string.genruntimeconfig.cache

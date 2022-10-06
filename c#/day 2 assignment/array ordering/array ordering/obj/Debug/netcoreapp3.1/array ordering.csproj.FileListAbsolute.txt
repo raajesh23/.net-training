@@ -1,0 +1,13 @@
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.exe
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.deps.json
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.runtimeconfig.json
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.runtimeconfig.dev.json
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.dll
+D:\training\day 2 assignement\array ordering\array ordering\bin\Debug\netcoreapp3.1\array ordering.pdb
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.AssemblyInfoInputs.cache
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.AssemblyInfo.cs
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.csproj.CoreCompileInputs.cache
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.dll
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.pdb
+D:\training\day 2 assignement\array ordering\array ordering\obj\Debug\netcoreapp3.1\array ordering.genruntimeconfig.cache

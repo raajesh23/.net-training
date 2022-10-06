@@ -1,0 +1,13 @@
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.exe
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.deps.json
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.json
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.dev.json
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.dll
+D:\training\day 2 assignement\marks\marks\bin\Debug\netcoreapp3.1\marks.pdb
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfoInputs.cache
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfo.cs
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.csproj.CoreCompileInputs.cache
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.dll
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.pdb
+D:\training\day 2 assignement\marks\marks\obj\Debug\netcoreapp3.1\marks.genruntimeconfig.cache
