@@ -1,0 +1,13 @@
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.exe
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.deps.json
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.runtimeconfig.json
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.runtimeconfig.dev.json
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.dll
+D:\training\average\average\bin\Debug\netcoreapp3.1\average.pdb
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.AssemblyInfoInputs.cache
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.AssemblyInfo.cs
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.csproj.CoreCompileInputs.cache
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.dll
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.pdb
+D:\training\average\average\obj\Debug\netcoreapp3.1\average.genruntimeconfig.cache

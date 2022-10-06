@@ -1,0 +1,14 @@
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.exe
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.deps.json
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.runtimeconfig.json
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.runtimeconfig.dev.json
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.dll
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\bin\Debug\netcoreapp3.1\positive and negative.pdb
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.csproj.AssemblyReference.cache
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.AssemblyInfoInputs.cache
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.AssemblyInfo.cs
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.csproj.CoreCompileInputs.cache
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.dll
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.pdb
+C:\Users\raajesht\source\repos\positive and negative\positive and negative\obj\Debug\netcoreapp3.1\positive and negative.genruntimeconfig.cache
